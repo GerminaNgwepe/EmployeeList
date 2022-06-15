@@ -1,0 +1,72 @@
+.bodyk{
+  background-image: url('./images/beutifull-lake-view-1.jpg');   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+     background-attachment: fixed; 
+     background-blend-mode: darken; 
+}
+#logo{
+    height: 100px;
+    width: 220px;
+    background-color:white;
+    opacity: 84%;
+}
+img{
+    width: 250px;
+    position: relative; bottom: 30px;
+}
+.fHead{
+    height: 50px;
+    border-radius: 20px;
+    background-color: black;
+    align-items: center;
+    color: white ;
+    font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 60px;
+}
+nav{
+    display: flex;
+    margin-top: 150px;
+    margin-right: 250px;
+}
+
+.form{
+    /* background-color: silver; */
+    opacity: 80%;
+    width: 40%;
+    height: 500px;
+    background: #D9D9D9;
+border-radius: 30px;
+
+}
+li{
+
+    color: white;
+    float: left;
+    position: relative; left: 30px;
+}
+/* form{
+    opacity: 85%;
+} */
+input{
+    padding: 15px;
+    margin: 15px;
+    border-radius: 20px;
+    width: 75%;
+   
+  
+}
+.btnlogin{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    margin: 8px;
+    padding: 12px;
+    width: 30%;
+}
+form .jj{
+    font-size: 24px;
+}

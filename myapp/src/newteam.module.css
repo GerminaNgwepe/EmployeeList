@@ -1,0 +1,142 @@
+.bodyf {
+    background-image: url('./images/beutifull-lake-view-1.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed; 
+}
+
+.welcome {
+    background-color: black;
+    color: antiquewhite;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 80px;
+}
+
+.flexcontainer {
+    display: flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    margin-left: 200px;
+}
+
+.flexitem {
+    display: flex;
+    width: 350px;
+    height: 320px;
+    background-color: silver;
+    margin-top: 10px;
+    display: flex;
+    opacity: 90%;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.user {
+    width: 170px;
+    height: 170px;
+    border-radius: 5px;
+    margin-left: 2px;
+    margin-top: 40px;
+}
+
+.info {
+    margin-top: 45px;
+    /*   //margin-right: 110px; */
+    margin-left: 20px;
+    flex-wrap: wrap;
+}
+
+.mail {
+    background-color: white;
+    margin-top: 30px;
+}
+p{
+
+    margin-top: 5px;
+}
+
+nav a{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 10px;
+}
+
+.navi {/* 
+    display: flex;
+    margin-left: 30px;
+    position: relative;
+    bottom: 30px;
+    /*  margin-left: 150px;
+    padding-left: 200px */
+    display: flex;
+  
+   
+    margin-top: 0;
+    list-style-type: none;
+    text-decoration: none;
+    background-color: black;
+   width: 100%;
+   padding-right: 500px; 
+   margin-right: 200px;
+   margin-top: -8px;
+   margin-left: -15px;
+
+
+}
+.our{
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 200px;
+    margin-top: 20px;
+    color: antiquewhite;
+}
+nav{
+    display: flex;
+    width: 500px;
+    display: flex;
+    
+    width: 100px;;
+    text-decoration: none;
+    margin-top: px;
+  
+}
+li{
+    text-decoration: none;
+  
+   
+}
+nav ul{
+    color: aliceblue;
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: 1200px;
+}
+#message {
+    position: relative;
+    margin-bottom: 8px;
+    bottom: 40px;
+}
+.flexitem rating {
+    display: flex;
+    margin-left: 10px;
+    height: 30px;
+    width: 130px;
+    margin-top: 2px;
+}
+.ratingP{
+
+    margin-left: 10px;
+    height: 25px;
+    width:  100px;
+    margin-top: 2px;
+}
+.btn{
+    width: 36%;
+}

@@ -1,0 +1,42 @@
+body{
+    background-image: url('./images/pexels_photo_763097_1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   /*  width: 1500px; */
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    font-size: 22px;
+}
+.navii{
+    float: right;
+    margin-right: 6px;
+    position: relative; bottom: 35px; 
+}
+#glogo{
+    height: 100px;
+    width: 220px;
+    opacity: 84%;
+}
+img{
+    width: 250px;
+    position: relative; bottom: 32px;
+}
+.text{
+    color:white;
+    width: 50%;
+    height: 50px;
+    position: relative; top: 200px;
+    font-size: 50px;
+   
+}
+.log, .reg,.crud,.team{
+    background-color: rgb(27, 27, 104);
+    padding: 8px;
+    border-radius: 10px;
+    margin-left: 30px;
+} 
